@@ -6,4 +6,4 @@ mv .git .gitwiki
 git init 
 
 git remote add origin https://github.com/brendabrandy/testdir.git
-git --git-dir=.gitwiki remote add wiki https://github.com/brendabrandy/testdir.wiki.git
+git --git-dir=.wiki remote add wiki https://github.com/brendabrandy/testdir.wiki.git
